@@ -1,7 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
+	url = git@github.com:gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = https://github.com/brain-modelling-group/brain-modelling-group.github.io.git
+	url = git@github.com:brain-modelling-group/brain-modelling-group.github.io.git
 	branch = master
