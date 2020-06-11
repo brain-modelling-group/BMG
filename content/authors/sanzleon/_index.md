@@ -22,8 +22,9 @@ bio: Currently my research interests include large-scale brain modelling across 
 
 
 interests: 
-- Computational brain modelling using neural masses and neural fields
-- Spatiotemporal analysis of brain dynamics 
+- Computational modelling
+- Spatiotemporal analysis
+- Scientific software  
 
 
 education:
