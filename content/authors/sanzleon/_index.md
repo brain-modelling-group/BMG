@@ -76,4 +76,4 @@ Dr Paula Sanz-Leon is a postdoc working on modelling and analysing brain dynamic
 ### Active projects: 
 - Development of `neural flows` toolbox
 - Discovering neural mechanisms of ADHD and OCD
-- Effect of heterogeneous transmission delays in the formation of large-scale brainwaves (Honours)
+- Charactersing the effect of distributed delays in the formation of large-scale brainwaves (Honours)
