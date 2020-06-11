@@ -71,6 +71,12 @@ large-scale spatiotemporal dynamics. Two themes we will cover are: 1. Recent wor
 # When
 TBA (likely 21 or 22 July, perhaps UTC 11:00-16:00)
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-14b783c3-c178-413a-8a52-e7e9899cd706"></div>
+
+# Program details
+1. [Neural Flows - Paula Sanz-Leon](../talk/cns-nf-talk)
+
 # Where
 TBA (maybe Zoom)
 
