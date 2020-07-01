@@ -74,7 +74,7 @@ Everywhere on Earth @ CNS\*2020 Online
 
 # When
 Brisbane time: from 21st July @10.00pm to 22nd July @02.30am  
-Once you register, you'll get access to the full program and schedule.
+Once you register, you'll get access to the full program and [schedule](https://cns2020online.sched.com/).
 
 # How to watch presentations  
 [Crowdcast](https://www.crowdcast.io)
