@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neural Flows - Oral Presentation"
+title: "Neural Flows - Oral Presentation @CNS\*2020"
 event: "CNS2020"
 event_url: "https://cns2020online.sched.com/"
 location: "Everywhere on Earth"

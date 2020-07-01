@@ -69,8 +69,8 @@ large-scale spatiotemporal dynamics. Two themes we will cover are: 1. Recent wor
 - [Paula Sanz-Leon](../authors/sanzleon)
 
 # Where
-Everywhere on Earth @ CNS\*2020 Online
-[Register here, it's free](https://www.cnsorg.org/cns-2020)
+Everywhere on Earth @CNS\*2020 Online
+[Register here, it's free](https://www.cnsorg.org/cns-2020).
 
 # When
 Brisbane time: from 21st July @10.00pm to 22nd July @02.30am  
