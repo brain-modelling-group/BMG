@@ -68,14 +68,18 @@ large-scale spatiotemporal dynamics. Two themes we will cover are: 1. Recent wor
 - [James Roberts](../authors/admin)
 - [Paula Sanz-Leon](../authors/sanzleon)
 
-# When
-TBA (likely 21 or 22 July, perhaps UTC 11:00-16:00)
-
 # Where
-TBA (maybe Zoom)
+Everywhere on Earth @CNS\*2020 Online
+[Register here, it's free](https://www.cnsorg.org/cns-2020).
+
+# When
+Brisbane time: from 21st July @10.00pm to 22nd July @02.30am  
+Once you register, you'll get access to the full program and [schedule](https://cns2020online.sched.com/).
+
+# How to watch presentations  
+[Crowdcast](https://www.crowdcast.io)
 
 # Speakers
-
 - Katharina Glomb, University of Lausanne (Switzerland)
 - Leonardo Gollo, Monash University (Australia)
 - John Griffiths, University of Toronto (Canada)
@@ -85,6 +89,8 @@ TBA (maybe Zoom)
 - Yujiang Wang, Newcastle University (UK)
 - Changsong Zhou, Hong Kong Baptist University (HK)
 
+# Q & A Space
+We have opened a space for everyone to ask questions [on the topic of spatiotemporal dynamics](https://neurostars.org/t/workshop-spatiotemporal-dynamics-in-neuroimaging-models-and-analysis-q-a/7608).
 
 
 

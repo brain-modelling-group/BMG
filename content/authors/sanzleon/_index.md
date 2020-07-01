@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Senior Research Officer
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Currently my research interests include large-scale brain modelling across the lifespan & development of open-source scientific software in Python and Matlab. 
 
-interests: []
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+
+interests: 
+- Computational modelling
+- Spatiotemporal analysis
+- Scientific software  
+
 
 education:
 #  courses:
@@ -70,4 +72,9 @@ user_groups:
 #- Visitors
 ---
 
-Dr Paula Sanz-Leon is a postdoc working on modelling brain dynamics.
+Dr Paula Sanz-Leon is a postdoc working on modelling and analysing brain dynamics.
+
+### Active projects: 
+- Development of `neural flows` toolbox
+- Discovering neural mechanisms of ADHD and OCD
+- Characterising the effect of distributed delays in the formation of large-scale brainwaves (Honours)
