@@ -90,7 +90,7 @@ Once you register, you'll get access to the full program and [schedule](https://
 - Changsong Zhou, Hong Kong Baptist University (HK)
 
 # Q & A Space
-We have opened a space for everyone to ask questions [on the topic of spatiotemporal dynamics]((https://neurostars.org/t/workshop-spatiotemporal-dynamics-in-neuroimaging-models-and-analysis-q-a/7608)). Search for the tag `cns2020`. Check the space out [here]. 
+We have opened a space for everyone to ask questions [on the topic of spatiotemporal dynamics](https://neurostars.org/t/workshop-spatiotemporal-dynamics-in-neuroimaging-models-and-analysis-q-a/7608). Search for the tag `cns2020`. Check the space out [here]. 
 
 
 
