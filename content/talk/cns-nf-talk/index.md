@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neural Flows"
+title: "Neural Flows - Oral Presentation"
 event: "CNS2020"
-event_url: "https://www.cnsorg.org/cns-2020"
+event_url: "https://cns2020online.sched.com/"
 location: "Everywhere on Earth"
 address:
   street:
@@ -11,13 +11,13 @@ address:
   region:
   postcode:
   country: "Brisbane, Australia"
-summary: Lorem ipsum
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+summary: Overview Neural Flows Toolbox 
+abstract: Neural activity organizes in constantly evolving spatiotemporal patterns of activity, also known as brain waves (Roberts et al., 2019). Indeed, wave-like patterns have been observed across multiple neuroimaging modalities and across multiple spatiotemporal scales (Muller et al., 2016; Contreras et al. 1997; Destexhe et al. 1999). However, due to experimental constraints most attention has thus far been given to localised wave dynamics in the range of micrometers to a few centimeters, rather than at the global or large-scale that would encompass the whole brain. Existing toolboxes (Muller et al., 2016; Townsend et al., 2018) are geared particularly for 2D spatial domains (e.g., LFPs or VSDs on structured rectangular grids). No tool exists to study spatiotemporal waves naturally unfolding in 3D+t as recorded with different non-invasive neuroimaging techniques (e.g, EEG, MEG, and fMRI). In this work, we present results of using our toolbox neural flows.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-22T22:00:00+10:00
-date_end: 2020-07-22T22:30:00+10:00
+date: 2020-07-20T22:20:00+10:00
+date_end: 2020-07-22T22:40:00+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -47,7 +47,6 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
-
 url_code:
 url_pdf:
 url_video:
