@@ -7,5 +7,10 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Neuroimage*"
+url_pdf: ''
+url_code: ''
+links: 
+- url: https://www.sciencedirect.com/science/article/pii/S1053811920306595
+  name: Online version
 ---
 
