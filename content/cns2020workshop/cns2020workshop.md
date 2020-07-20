@@ -82,7 +82,6 @@ Once you register, you'll get access to the full program and [schedule](https://
 # Speakers
 - Katharina Glomb, University of Lausanne (Switzerland)
 - John Griffiths, University of Toronto (Canada)
-- Robyn Miller, Georgia State University (USA)
 - Patricio Orio, Universidad de Valparaíso (Chile)
 - Paula Sanz-Leon, QIMR Berghofer (Australia)
 - Johan van der Meer, QIMR Berghofer (Australia)
