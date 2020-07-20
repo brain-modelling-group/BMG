@@ -81,11 +81,11 @@ Once you register, you'll get access to the full program and [schedule](https://
 
 # Speakers
 - Katharina Glomb, University of Lausanne (Switzerland)
-- Leonardo Gollo, Monash University (Australia)
 - John Griffiths, University of Toronto (Canada)
 - Robyn Miller, Georgia State University (USA)
 - Patricio Orio, Universidad de Valparaíso (Chile)
 - Paula Sanz-Leon, QIMR Berghofer (Australia)
+- Johan van der Meer, QIMR Berghofer (Australia)
 - Yujiang Wang, Newcastle University (UK)
 - Changsong Zhou, Hong Kong Baptist University (HK)
 
