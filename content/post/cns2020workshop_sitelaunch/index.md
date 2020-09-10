@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["neonatal"]
+projects: []
 ---
 
 We are organizing a workshop at CNS2020. It would have been in Melbourne but instead is online.

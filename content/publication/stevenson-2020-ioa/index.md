@@ -9,6 +9,8 @@ featured: true
 publication: "*Annals of Clinical and Translational Neurology*"
 url_pdf: ''
 url_code: ''
-
+links:
+- url: https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51132
+  name: Online version
 ---
 
