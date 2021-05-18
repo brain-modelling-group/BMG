@@ -1,16 +1,16 @@
 ---
 # Display name
-name: James Pang
+name: Kartik Iyer
 
 # Username (this should match the folder name)
 authors:
-- pang
+- iyer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former postdoc
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:james.pang@qimrberghofer.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kartik.iyer@qimrberghofer.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jchrispang
+  link: https://twitter.com/01kartik_iyer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=QdrOmZgAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jchrispang
+  link: https://scholar.google.com.au/citations?user=F6OH15AAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +66,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 #- Visitors
 ---
 
-Dr James Pang worked on modelling brain dynamics.
+Dr Kartik Iyer is a postdoctoral researcher at QIMR Berghofer with a biomedical engineering and computational neuroscience background, 
+and nearly a decade of experience in the fields of child development, neurotrauma, and brain mapping. 
+He combines highly multidisciplinary skillsets including biomedical signal/image analysis, machine learning, clinical neuroscience, 
+and brain mapping methods (EEG & MRI) to examine developmental and physiological processes occurring in the brain and body. 
+He has developed several prognostic biomarkers in a range of health and disease settings across the lifespan.
 
-He's now at Monash: https://research.monash.edu/en/persons/james-pang
