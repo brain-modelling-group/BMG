@@ -79,13 +79,15 @@ Dr Roberts employs a multidisciplinary approach that combines computational and 
 ## Publications
 ### Articles:
 
+1. L. Webb, M. Kaupilla, **J. A. Roberts**, S. Vanhatalo, and N. J. Stevenson (2021). Automated detection of artefacts in neonatal EEG with residual neural networks. [Computer Methods and Programs in Biomedicine (in press)]().
+
 1. J. C. Pang, L. L. Gollo, and **J. A. Roberts** (2021). Stochastic synchronization of dynamics on the human connectome. [NeuroImage 229:117738](https://www.sciencedirect.com/science/article/pii/S105381192100015X).
 
 1. A. M. Puckett, M. M. Schira, Z. J. Isherwood, J. D. Victor, **J. A. Roberts**, and M. Breakspear (2020). Manipulating the structure of natural scenes using wavelets to study the functional architecture of perceptual hierarchies in the brain. [NeuroImage 221:117173](https://www.sciencedirect.com/science/article/pii/S1053811920306595).
 
-1. N. J. Stevenson, M.‐L. Tataranno, A. Kaminska, E. Pavlidis, R. R. Clancy, E. Griesmaier, **J. A. Roberts**, K. Klebermass‐Schrehof, and S. Vanhatalo (2020). Reliability and accuracy of EEG interpretation for estimating age in preterm infants. [Annals of Clinical and Translational Neurology 7:1564-1573](https://onlinelibrary.wiley.com/doi/10.1002/acn3.51132).
+1. N. J. Stevenson, M.-L. Tataranno, A. Kaminska, E. Pavlidis, R. R. Clancy, E. Griesmaier, **J. A. Roberts**, K. Klebermass‐Schrehof, and S. Vanhatalo (2020). Reliability and accuracy of EEG interpretation for estimating age in preterm infants. [Annals of Clinical and Translational Neurology 7:1564-1573](https://onlinelibrary.wiley.com/doi/10.1002/acn3.51132).
 
-1. N. J. Stevenson, L. Oberdorfer, M.‐L. Tataranno, M. Breakspear, P. B. Colditz, L. S. de Vries, M. J. N. L. Benders, K. Klebermass‐Schrehof, S. Vanhatalo, and **J. A. Roberts** (2020). Automated cot‐side tracking of functional brain age in preterm infants. [Annals of Clinical and Translational Neurology 7:891-902](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51043).
+1. N. J. Stevenson, L. Oberdorfer, M.-L. Tataranno, M. Breakspear, P. B. Colditz, L. S. de Vries, M. J. N. L. Benders, K. Klebermass‐Schrehof, S. Vanhatalo, and **J. A. Roberts** (2020). Automated cot‐side tracking of functional brain age in preterm infants. [Annals of Clinical and Translational Neurology 7:891-902](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51043).
 
 1. L. J. Hearne, H.-Y. Lin, P. Sanz-Leon, W.-Y. I. Tseng, S. S.-F. Gau, **J. A. Roberts**, and L. Cocchi (2019). ADHD symptoms map onto noise-driven structure-function decoupling between hub and peripheral brain regions. [Molecular Psychiatry (in press)](https://www.nature.com/articles/s41380-019-0554-6).
 
