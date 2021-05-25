@@ -79,7 +79,7 @@ Dr Roberts employs a multidisciplinary approach that combines computational and 
 ## Publications
 ### Articles:
 
-1. L. Webb, M. Kaupilla, **J. A. Roberts**, S. Vanhatalo, and N. J. Stevenson (2021). Automated detection of artefacts in neonatal EEG with residual neural networks. [Computer Methods and Programs in Biomedicine (in press)]().
+1. L. Webb, M. Kaupilla, **J. A. Roberts**, S. Vanhatalo, and N. J. Stevenson (2021). Automated detection of artefacts in neonatal EEG with residual neural networks. [Computer Methods and Programs in Biomedicine (in press)](https://www.sciencedirect.com/science/article/abs/pii/S0169260721002686).
 
 1. J. C. Pang, L. L. Gollo, and **J. A. Roberts** (2021). Stochastic synchronization of dynamics on the human connectome. [NeuroImage 229:117738](https://www.sciencedirect.com/science/article/pii/S105381192100015X).
 

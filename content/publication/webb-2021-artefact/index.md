@@ -10,7 +10,7 @@ publication: "*Computer Methods and Programs in Biomedicine*"
 url_pdf: ''
 url_code: ''
 links:
-#- url: https://
-#  name: Online version
+- url: https://www.sciencedirect.com/science/article/abs/pii/S0169260721002686
+  name: Online version
 ---
 
