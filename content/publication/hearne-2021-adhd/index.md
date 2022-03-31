@@ -1,6 +1,6 @@
 ---
 title: "ADHD symptoms map onto noise-driven structure--function decoupling between hub and peripheral brain regions"
-date: 2019-01-01
+date: 2021-01-01
 publishDate: 2020-02-18T22:49:50.897974Z
 authors: ["Luke J Hearne", "Hsiang-Yuan Lin", "Paula Sanz-Leon", "Wen-Yih Isaac Tseng", "Susan Shur-Fen Gau", "James A Roberts", "Luca Cocchi"]
 publication_types: ["2"]
