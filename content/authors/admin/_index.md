@@ -79,14 +79,18 @@ Recently also branched into COVID-19 modelling :mask:.
 
 
 ## Publications
-### Preprints:
 
-1. J. C. Pang, J. K. Rilling, **J. A. Roberts**\*, M. P. van den Heuvel\*, L. Cocchi\* (2022) Evolutionary shaping of human brain dynamics. [bioRxiv 2022.06.07.495189](https://www.biorxiv.org/content/10.1101/2022.06.07.495189v1)  
-(\* authors jointly supervised)
 
 ### Articles:
 
-1. P. Sanz-Leon, L. H. W. Hamilton, S. J. Raison, A. J. X. Pan, N. J. Stevenson, R. M. Stuart, R. G. Abeysuriya,  C. C. Kerr, S. B. Lambert, **J. A. Roberts** (2022) Modelling herd immunity requirements in Queensland: impact of vaccination effectiveness, hesitancy, and variants of SARS-CoV-2. [Philosophical Transactions of the Royal Society A (in press)]() doi:10.1098/rsta.2021.0311
+1. S. Naze, L. J. Hearne, **J. A. Roberts**, P. Sanz-Leon, B. Burgher, C. Hall, S. Sonkusare, Z. Nott, L. Marcus, E. Savage, C. Robinson, Y. E. Tian, A. Zalesky, M. Breakspear, L. Cocchi (2023). Mechanisms of imbalanced frontostriatal functional connectivity in obsessive-compulsive disorder. [Brain 146:1322–1327](https://academic.oup.com/brain/article/146/4/1322/6830574)
+
+1. K. K. Iyer, U. Leitner, V. Giordano, **J. A. Roberts**, S. Vanhatalo, K. Klebermass-Schrehof, N. J. Stevenson (2022). Bedside tracking of functional autonomic age in preterm infants. [Pediatric Research](https://www.nature.com/articles/s41390-022-02376-2)
+
+1. J. C. Pang, J. K. Rilling, **J. A. Roberts**\*, M. P. van den Heuvel\*, L. Cocchi\* (2022). Evolutionary shaping of human brain dynamics. [eLife 11: e80627](https://elifesciences.org/articles/80627)  
+(\* authors jointly supervised)
+
+1. P. Sanz-Leon, L. H. W. Hamilton, S. J. Raison, A. J. X. Pan, N. J. Stevenson, R. M. Stuart, R. G. Abeysuriya,  C. C. Kerr, S. B. Lambert, **J. A. Roberts** (2022). Modelling herd immunity requirements in Queensland: impact of vaccination effectiveness, hesitancy, and variants of SARS-CoV-2. [Philosophical Transactions of the Royal Society A 380:20210311](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2021.0311) 
 
 1. P. Sanz-Leon, N. J. Stevenson, R. M. Stuart, R. G. Abeysuriya,  J. C. Pang, S. B. Lambert, C. C. Kerr, **J. A. Roberts** (2022). Risk of sustained SARS-CoV-2 transmission in Queensland, Australia. [Scientific Reports 12:6309](https://www.nature.com/articles/s41598-022-10349-y).
 
