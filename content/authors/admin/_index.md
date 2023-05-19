@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Team Head
+role: Group Leader
 
 # Organizations/Affiliations
 organizations:

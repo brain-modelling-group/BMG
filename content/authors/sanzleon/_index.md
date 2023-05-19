@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Officer
+role: Former postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -68,13 +68,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 #- Visitors
 ---
 
-Dr Paula Sanz-Leon is a postdoc working on modelling and analysing brain dynamics.
+Dr Paula Sanz-Leon worked on modelling and analysing brain dynamics, and COVID-19 modelling.
 
-### Active projects: 
-- Development of `neural flows` toolbox
-- Discovering neural mechanisms of ADHD and OCD
-- Characterising the effect of distributed delays in the formation of large-scale brainwaves (Honours)
+
