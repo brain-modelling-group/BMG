@@ -6,9 +6,9 @@ authors: ["James C Pang", "James K. Rilling", "James A Roberts", "Martijn P. van
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*bioRxiv*"
+publication: "*eLife*"
 links: 
-- url: https://www.biorxiv.org/content/10.1101/2022.06.07.495189v1
+- url: https://elifesciences.org/articles/80627
   name: Online version
 #image:
 #  placement: 1
