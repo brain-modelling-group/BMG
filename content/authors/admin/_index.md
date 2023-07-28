@@ -80,8 +80,16 @@ Recently also branched into COVID-19 modelling :mask:.
 
 ## Publications
 
+### Preprints:
+
+1. K. K. Iyer, **J. A. Roberts**, M. Waak, S. J. Vogrin, A. Kevat, J. Chawla, L. M. Haataja, L. Lauronen, S. Vanhatalo, N. J. Stevenson (2023). A growth chart of brain function from infancy to adolescence based on electroencephalography. [bioRxiv 2023.07.07.548062](https://doi.org/10.1101/2023.07.07.548062)
 
 ### Articles:
+
+1. S. Dutta, K. K. Iyer, S. Vanhatalo, M. Breakspear, **J. A. Roberts** (2023). Mechanisms underlying pathological cortical bursts during metabolic depletion. [Nature Communications (in press)]()
+
+1. A. M. Plomgaard, N. Stevenson, **J. A. Roberts**, T. H. Petersen, S. Vanhatalo, G. Greisen, and the SafeBoosC-II study
+group (2023). Early EEG burst sharpness and two-year disability in extremely preterm infants. [Pediatric Research (in press)]()
 
 1. S. Naze, L. J. Hearne, **J. A. Roberts**, P. Sanz-Leon, B. Burgher, C. Hall, S. Sonkusare, Z. Nott, L. Marcus, E. Savage, C. Robinson, Y. E. Tian, A. Zalesky, M. Breakspear, L. Cocchi (2023). Mechanisms of imbalanced frontostriatal functional connectivity in obsessive-compulsive disorder. [Brain 146:1322–1327](https://academic.oup.com/brain/article/146/4/1322/6830574)
 
