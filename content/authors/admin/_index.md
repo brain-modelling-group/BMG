@@ -74,7 +74,7 @@ Dr James Roberts leads the Brain Modelling Group at QIMR Berghofer.
 His research lies broadly in the field of computational neuroscience, at the intersection of physics, mathematics, neuroscience, and neurology. 
 Dr Roberts employs a multidisciplinary approach that combines computational and analytical methods with clinical electrophysiological and neuroimaging data, to tackle complex problems in neuroscience and brain health.
 
-Recently also branched into COVID-19 modelling :mask:.
+Also branched into COVID-19 modelling :mask:.
 
 
 
@@ -89,11 +89,11 @@ Recently also branched into COVID-19 modelling :mask:.
 1. S. Dutta, K. K. Iyer, S. Vanhatalo, M. Breakspear, **J. A. Roberts** (2023). Mechanisms underlying pathological cortical bursts during metabolic depletion. [Nature Communications (in press)]()
 
 1. A. M. Plomgaard, N. Stevenson, **J. A. Roberts**, T. H. Petersen, S. Vanhatalo, G. Greisen, and the SafeBoosC-II study
-group (2023). Early EEG burst sharpness and two-year disability in extremely preterm infants. [Pediatric Research (in press)]()
+group (2023). Early EEG burst sharpness and two-year disability in extremely preterm infants. [Pediatric Research](https://www.nature.com/articles/s41390-023-02753-5)
 
 1. S. Naze, L. J. Hearne, **J. A. Roberts**, P. Sanz-Leon, B. Burgher, C. Hall, S. Sonkusare, Z. Nott, L. Marcus, E. Savage, C. Robinson, Y. E. Tian, A. Zalesky, M. Breakspear, L. Cocchi (2023). Mechanisms of imbalanced frontostriatal functional connectivity in obsessive-compulsive disorder. [Brain 146:1322–1327](https://academic.oup.com/brain/article/146/4/1322/6830574)
 
-1. K. K. Iyer, U. Leitner, V. Giordano, **J. A. Roberts**, S. Vanhatalo, K. Klebermass-Schrehof, N. J. Stevenson (2022). Bedside tracking of functional autonomic age in preterm infants. [Pediatric Research](https://www.nature.com/articles/s41390-022-02376-2)
+1. K. K. Iyer, U. Leitner, V. Giordano, **J. A. Roberts**, S. Vanhatalo, K. Klebermass-Schrehof, N. J. Stevenson (2023). Bedside tracking of functional autonomic age in preterm infants. [Pediatric Research 94:206-212](https://www.nature.com/articles/s41390-022-02376-2)
 
 1. J. C. Pang, J. K. Rilling, **J. A. Roberts**\*, M. P. van den Heuvel\*, L. Cocchi\* (2022). Evolutionary shaping of human brain dynamics. [eLife 11: e80627](https://elifesciences.org/articles/80627)  
 (\* authors jointly supervised)
