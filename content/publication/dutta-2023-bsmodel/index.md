@@ -10,7 +10,7 @@ publication: "*Nature Communications*"
 url_pdf: ''
 url_code: ''
 links: 
-- url: 
+- url: https://www.nature.com/articles/s41467-023-40437-0
   name: Online version
 image:
   placement: 1

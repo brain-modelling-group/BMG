@@ -86,7 +86,7 @@ Also branched into COVID-19 modelling :mask:.
 
 ### Articles:
 
-1. S. Dutta, K. K. Iyer, S. Vanhatalo, M. Breakspear, **J. A. Roberts** (2023). Mechanisms underlying pathological cortical bursts during metabolic depletion. [Nature Communications (in press)]()
+1. S. Dutta, K. K. Iyer, S. Vanhatalo, M. Breakspear, **J. A. Roberts** (2023). Mechanisms underlying pathological cortical bursts during metabolic depletion. [Nature Communications 14:4792](https://www.nature.com/articles/s41467-023-40437-0)
 
 1. A. M. Plomgaard, N. Stevenson, **J. A. Roberts**, T. H. Petersen, S. Vanhatalo, G. Greisen, and the SafeBoosC-II study
 group (2023). Early EEG-burst sharpness and 2-year disability in extremely preterm infants. [Pediatric Research](https://www.nature.com/articles/s41390-023-02753-5)
