@@ -82,20 +82,22 @@ Also branched into COVID-19 modelling :mask:.
 
 ### Preprints:
 
-1. K. K. Iyer, **J. A. Roberts**, M. Waak, S. J. Vogrin, A. Kevat, J. Chawla, L. M. Haataja, L. Lauronen, S. Vanhatalo, N. J. Stevenson (2023). A growth chart of brain function from infancy to adolescence based on electroencephalography. [bioRxiv 2023.07.07.548062](https://doi.org/10.1101/2023.07.07.548062)
+1. L. Webb, A. J. K. Phillips, **J. A. Roberts**. Mapping the physiological changes in sleep regulation across infancy and young childhood. [bioRxiv 2023.11.16.567480](https://www.biorxiv.org/content/10.1101/2023.11.16.567480v1.abstract)
 
 ### Articles:
+
+1. K. K. Iyer, **J. A. Roberts**, M. Waak, S. J. Vogrin, A. Kevat, J. Chawla, L. M. Haataja, L. Lauronen, S. Vanhatalo, N. J. Stevenson (2024). A growth chart of brain function from infancy to adolescence based on EEG. [eBioMedicine 102:105061](https://www.sciencedirect.com/science/article/pii/S2352396424000963)
 
 1. S. Dutta, K. K. Iyer, S. Vanhatalo, M. Breakspear, **J. A. Roberts** (2023). Mechanisms underlying pathological cortical bursts during metabolic depletion. [Nature Communications 14:4792](https://www.nature.com/articles/s41467-023-40437-0)
 
 1. A. M. Plomgaard, N. Stevenson, **J. A. Roberts**, T. H. Petersen, S. Vanhatalo, G. Greisen, and the SafeBoosC-II study
-group (2023). Early EEG-burst sharpness and 2-year disability in extremely preterm infants. [Pediatric Research](https://www.nature.com/articles/s41390-023-02753-5)
+group (2024). Early EEG-burst sharpness and 2-year disability in extremely preterm infants. [Pediatric Research 95:193-199](https://www.nature.com/articles/s41390-023-02753-5)
 
 1. S. Naze, L. J. Hearne, **J. A. Roberts**, P. Sanz-Leon, B. Burgher, C. Hall, S. Sonkusare, Z. Nott, L. Marcus, E. Savage, C. Robinson, Y. E. Tian, A. Zalesky, M. Breakspear, L. Cocchi (2023). Mechanisms of imbalanced frontostriatal functional connectivity in obsessive-compulsive disorder. [Brain 146:1322–1327](https://academic.oup.com/brain/article/146/4/1322/6830574)
 
 1. K. K. Iyer, U. Leitner, V. Giordano, **J. A. Roberts**, S. Vanhatalo, K. Klebermass-Schrehof, N. J. Stevenson (2023). Bedside tracking of functional autonomic age in preterm infants. [Pediatric Research 94:206-212](https://www.nature.com/articles/s41390-022-02376-2)
 
-1. J. C. Pang, J. K. Rilling, **J. A. Roberts**\*, M. P. van den Heuvel\*, L. Cocchi\* (2022). Evolutionary shaping of human brain dynamics. [eLife 11: e80627](https://elifesciences.org/articles/80627)  
+1. J. C. Pang, J. K. Rilling, **J. A. Roberts**\*, M. P. van den Heuvel\*, L. Cocchi\* (2022). Evolutionary shaping of human brain dynamics. [eLife 11:e80627](https://elifesciences.org/articles/80627)  
 (\* authors jointly supervised)
 
 1. P. Sanz-Leon, L. H. W. Hamilton, S. J. Raison, A. J. X. Pan, N. J. Stevenson, R. M. Stuart, R. G. Abeysuriya,  C. C. Kerr, S. B. Lambert, **J. A. Roberts** (2022). Modelling herd immunity requirements in Queensland: impact of vaccination effectiveness, hesitancy, and variants of SARS-CoV-2. [Philosophical Transactions of the Royal Society A 380:20210311](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2021.0311) 
